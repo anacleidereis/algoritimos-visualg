@@ -4,7 +4,7 @@ Repositório com exercícios de lógica de programação desenvolvidos no Visual
 
 ## Conteúdos praticados
 - Variáveis
-- Estruturas condicionais
+- Estruturas Condicionais
 - Laços/repetição
 - Vetores e matrizes
 
